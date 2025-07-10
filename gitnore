@@ -1,0 +1,70 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ambientes virtuais
+venv/
+env/
+ENV/
+*.egg-info/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Dados e modelos (pesados)
+*.csv
+*.json
+*.xml
+*.h5
+*.npy
+*.npz
+*.pth
+*.pt
+*.onnx
+*.tflite
+datasets/
+outputs/
+models/
+
+# Compilação C/C++ (Jetson)
+build/
+*.o
+*.out
+*.a
+*.bin
+
+# VS Code
+.vscode/
+
+# Jupyter e JupyterLab
+.jupyter/
+lab/workspaces/
+
+# Mídia gerada
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+*.avi
+
+# Configs locais
+*.conf
+*.ini
+*.yaml
+*.yml
+
+# CUDA compilados
+*.cu.o
+*.cu.d
