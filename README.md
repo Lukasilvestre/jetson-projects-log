@@ -1,6 +1,6 @@
 # Jetson Projects Log 📓
 
-Este repositório serve como um diário técnico da minha jornada com a plataforma NVIDIA Jetson (Nano / Xavier / Orin), com foco em aplicações práticas de visão computacional, machine learning e computação de borda.
+Este repositório serve como um diário técnico da minha jornada com a plataforma NVIDIA Jetson Orin Nano 8gb, com foco em aplicações práticas de visão computacional, machine learning e computação de borda.
 
 ## 📌 Objetivo
 
