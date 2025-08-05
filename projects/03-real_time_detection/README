@@ -1,0 +1,23 @@
+# Projeto 03: Detecção de Objetos em Tempo Real
+
+Este projeto utiliza a câmera da Jetson para realizar detecção de objetos em tempo real.
+
+## 🎯 Objetivo
+O objetivo é capturar o vídeo da câmera, processar os frames com modelos de IA e identificar objetos ou pessoas em tempo real.
+
+## 🛠️ Tecnologias Utilizadas
+* Python
+* OpenCV para captura de vídeo
+* Ollama com o modelo VLM `gemma3:4b`
+
+## ⚙️ Como Usar
+
+1.  **Instale as dependências:**
+    ```bash
+    pip install opencv-python ollama
+    ```
+
+2.  **Execute o script:**
+    ```bash
+    python gemma_camera.py
+    ```
