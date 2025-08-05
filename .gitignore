@@ -52,9 +52,7 @@ build/
 lab/workspaces/
 
 # Mídia gerada
-*.png
-*.jpg
-*.jpeg
+
 *.gif
 *.mp4
 *.avi
