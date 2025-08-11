@@ -1,0 +1,3 @@
+[submodule "projects/01-llm_inference_tests"]
+	path = projects/01-llm_inference_tests
+	url = https://github.com/Lukasilvestre/jetson-llm-performance-analysis.git
