@@ -1,3 +1,6 @@
 [submodule "projects/01-llm_inference_tests"]
 	path = projects/01-llm_inference_tests
 	url = https://github.com/Lukasilvestre/jetson-llm-performance-analysis.git
+[submodule "projects/02-vlm_image_analysis"]
+	path = projects/02-vlm_image_analysis
+	url = https://github.com/Lukasilvestre/ollama-image-analyzer-cli.git
