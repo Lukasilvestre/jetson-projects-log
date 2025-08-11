@@ -4,3 +4,6 @@
 [submodule "projects/02-vlm_image_analysis"]
 	path = projects/02-vlm_image_analysis
 	url = https://github.com/Lukasilvestre/ollama-image-analyzer-cli.git
+[submodule "projects/03-real_time_detection"]
+	path = projects/03-real_time_detection
+	url = https://github.com/Lukasilvestre/real-time-vlm-analyzer.git
